@@ -1,2 +1,2 @@
 # ml-projects
-Berkeley ML/AI certificate program projects
+This is a repo for projects from Berkeley ML/AI certificate program
