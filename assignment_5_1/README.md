@@ -24,4 +24,7 @@ Coffeehouse coupons:
  
  1. Coupons for coffee houses have a higher acceptance rate than those for bars
  2. Male and female drives have about the same acceptance rates for coffee coupons
- 3. Drivers below 21 age group have the highest coffee coupon acceptance rate than those b21+
+ 3. Drivers below 21 age group have the highest coffee coupon acceptance rate than those above 21 years of age
+ 4. People driving with friends or partners accept coffee coupons more than those driving with kids or alone
+ 5. 10 AM is the most popular time for accepting coffee coupons, followed by 2 PM
+
