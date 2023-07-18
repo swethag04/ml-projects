@@ -19,3 +19,9 @@ https://github.com/swethag04/ml-projects/blob/main/assignment_5_1/coupon-analysi
  1. People who accept coupons for bars are mostly those who  visit bars 3 or more times a month
  2. People who drive with kids as passengers have lease acceptance rate for bar coupons that those who drive alone or with friends or partners.
  3. People who are below 30 years of age have higher acceptance rate for bar coupons than those above 30.
+
+Coffeehouse coupons:
+ 
+ 1. Coupons for coffee houses have a higher acceptance rate than those for bars
+ 2. Male and female drives have about the same acceptance rates for coffee coupons
+ 3. Drivers below 21 age group have the highest coffee coupon acceptance rate than those b21+
