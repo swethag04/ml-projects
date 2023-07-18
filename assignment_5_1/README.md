@@ -10,10 +10,10 @@ Obviously, proximity to the business is a factor on whether the coupon is delive
 
 The goal of this project is to use visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
 
-<b> Data Analysis notebook </b>
+<b> Data Analysis notebook </b> <br>
 https://github.com/swethag04/ml-projects/blob/main/assignment_5_1/coupon-analysis.ipynb
 
-<b> Summary of findings </b>
+<b> Summary of findings </b> <br>
  Bar coupons:
 
  1. People who accept coupons for bars are mostly those who  visit bars 3 or more times a month
